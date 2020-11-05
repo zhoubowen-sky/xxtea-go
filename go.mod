@@ -1,3 +1,3 @@
-module xxtea-go
+module github.com/zhoubowen-sky/xxtea-go
 
 go 1.15
