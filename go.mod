@@ -1,3 +1,3 @@
-module github.com/zhoubowen-sky/xxtea-go
+module xxtea-go
 
-go 1.13
+go 1.15
